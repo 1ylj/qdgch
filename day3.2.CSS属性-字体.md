@@ -14,7 +14,7 @@
 
 * 用于设置文字的字体名称
   * 可设置一个或多个字体名称
-  * image-20240709102430279.png
+  * ![image-20240529215842337.png](day3.2.CSS%E5%B1%9E%E6%80%A7-%E5%AD%97%E4%BD%93.assets/image-20240529215842337.png)
   * ![image-20240711161541358](C:\Users\86181\AppData\Roaming\Typora\typora-user-images\image-20240711161541358.png)
 
 
